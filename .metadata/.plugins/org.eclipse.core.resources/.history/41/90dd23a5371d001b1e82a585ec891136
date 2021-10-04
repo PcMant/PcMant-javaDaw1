@@ -1,0 +1,14 @@
+
+public class masatierra {
+	
+	public static void main(String[] args) {
+		
+		double gravedad, masaTierra, radioTierra;
+		
+		Object math;
+		masaTierra = 5,972*Math.pow(10,24);
+		
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;carritoOnline.usuario&apos; to &apos;Usuario&apos;&#x0D;&#x0A;- Original project: &apos;carritoOnline&apos;&#x0D;&#x0A;- Original element: &apos;carritoOnline.usuario&apos;&#x0D;&#x0A;- Renamed element: &apos;carritoOnline.Usuario&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;usuario&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;carritoOnline{usuario.java[usuario" matchStrategy="1" name="Usuario" qualified="false" references="true" similarDeclarations="false" stamp="1619382822580" textual="false" version="1.0"/>
+</session>

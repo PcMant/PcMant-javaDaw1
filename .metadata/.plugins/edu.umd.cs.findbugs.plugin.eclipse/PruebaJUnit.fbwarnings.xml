@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1614989842365" analysisTimestamp="1614989839135" release="">
+  <Project projectName="PruebaJUnit">
+    <Jar>C:\Users\Normal User\SynologyDrive\DAW\Proyectos eclipse\PruebaJUnit\bin\Main\VentanaPrincipal$1.class</Jar>
+    <Jar>C:\Users\Normal User\SynologyDrive\DAW\Proyectos eclipse\PruebaJUnit\bin\Main\VentanaPrincipal.class</Jar>
+    <AuxClasspathEntry>C:\Users\Normal User\SynologyDrive\DAW\Proyectos eclipse\PruebaJUnit\bin</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.jupiter.api_5.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.jupiter.engine_5.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.jupiter.migrationsupport_5.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.jupiter.params_5.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.platform.commons_1.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.platform.engine_1.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.platform.launcher_1.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.platform.runner_1.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.platform.suite.api_1.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit.vintage.engine_5.7.0.v20201026-1537.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.opentest4j_1.2.0.v20190826-0900.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.apiguardian_1.1.0.v20190826-0900.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.junit_4.13.0.v20200204-1500.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Normal User\.p2\pool\plugins\org.hamcrest.core_1.3.0.v20180420-1519.jar</AuxClasspathEntry>
+    <SrcDir>C:\Users\Normal User\SynologyDrive\DAW\Proyectos eclipse\PruebaJUnit\src</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sat, 6 Mar 2021 00:12:58 +0100" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="15.0.1" vm_version="15.0.1+9-18" cpu_seconds="6.52" clock_seconds="3.27" peak_mbytes="465.27" alloc_mbytes="2048.00" gc_seconds="0.02">
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="236" invocations="2" avgMicrosecondsPerInvocation="118042" maxMicrosecondsPerInvocation="141986" standardDeviationMircosecondsPerInvocation="23942"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1614989842364" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

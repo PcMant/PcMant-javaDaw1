@@ -1,0 +1,16 @@
+
+public class masatierra {
+	
+	public static void main(String[] args) {
+		
+		double gravedad, masaTierra, radioTierra;
+		
+		masaTierra = (float) (5.972*Math.pow(10,24));
+		radioTierra = (float) (6371*Math.pow(10, 3));
+		
+		gravedad = (double) (masaTierra/radioTierra);
+		
+		System.out.print(gravedad);
+	}
+
+}

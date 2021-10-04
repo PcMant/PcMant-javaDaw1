@@ -1,0 +1,25 @@
+/*Programa que recoge un número del 1-7 y devuelve a que dia de la semana pertenece*/
+import java.util.Scanner;
+
+public class diaSemana {
+	
+	public static void main(String[] arg) {
+		
+		System.out.print("Introducce un número del 1-7: ");
+		Scanner teclado = new Scanner(System.in);
+		int numeroDia = teclado.nextInt();
+		
+		switch(numeroDia) {
+			case 1: System.out.println("El número introduccido corresponde al Lunes.");break;
+			case 2: System.out.println("El número introduccido corresponde al Martes.");break;
+			case 3: System.out.println("El número introduccido corresponde al Miercoles.");break;
+			case 4: System.out.println("El número introduccido corresponde al Jueves.");break;
+			case 5: System.out.println("El número introduccido corresponde al Viernes.");break;
+			case 6: System.out.println("El número introduccido corresponde al Sabado.");break;
+			case 7: System.out.println("El número introduccido corresponde al Domingo.");break;
+			default: System.out.println("El número introduccido no corresponde a ningún dia de la semana.");
+		}
+		
+	}
+
+}

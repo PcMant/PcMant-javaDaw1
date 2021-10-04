@@ -1,0 +1,10 @@
+
+public class testConstructores {
+	
+	public static void main(String[] args) {
+		rectangulo r1 = new rectangulo(5,7);
+		rectangulo r2 = new rectangulo();
+		rectangulo r3 = new rectangulo(8);
+	}
+	
+}

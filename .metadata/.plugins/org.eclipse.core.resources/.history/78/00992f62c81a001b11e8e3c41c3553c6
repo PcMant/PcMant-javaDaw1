@@ -1,0 +1,10 @@
+/*Programa que comprueba si es vocal o consonante una letra introduccida por teclado*/
+import java.util.Scanner;
+
+public class VocalesConsonantes {
+	public static void main(String[] arg) {
+		Scanner teclado = new Scanner(System.in);
+		System.out.println("Introduzca un carácter: ");
+		char letra = teclado.charAt(0);
+	}
+}

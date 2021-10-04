@@ -1,0 +1,6 @@
+/*Metodos en instancia*/
+public class cuadrado {
+	private int lado;
+	cuadrado(int l){this.lado = l;}
+	public int getArea() { return lado*lado;}
+}

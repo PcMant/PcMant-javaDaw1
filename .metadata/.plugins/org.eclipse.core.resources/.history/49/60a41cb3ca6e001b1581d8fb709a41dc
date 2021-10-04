@@ -1,0 +1,12 @@
+
+public class testConstructores {
+	
+	public static void main(String[] args) {
+		
+		//Ejemplo de sobrecarga de constructores
+		rectangulo r1 = new rectangulo(5,7);
+		rectangulo r2 = new rectangulo();
+		rectangulo r3 = new rectangulo(8);
+	}
+	
+}

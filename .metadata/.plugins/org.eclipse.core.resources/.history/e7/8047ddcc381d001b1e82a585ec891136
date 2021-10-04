@@ -1,0 +1,14 @@
+
+public class masatierra {
+	
+	public static void main(String[] args) {
+		
+		float gravedad, masaTierra, radioTierra;
+		
+		float diezAveinticuatro = Math.pow(10,24);
+		masaTierra = 5,972*diezA24;
+		
+		
+	}
+
+}

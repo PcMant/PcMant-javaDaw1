@@ -1,0 +1,9 @@
+6.Averigua si son verdaderas o falsas las siguientes afirmaciones:
+
+-Una clase bastracta es una clase que no se puede instanciar. V
+-Una clase abstracta es una clase que se usa únicamente para definir superclases. F
+-Los métodos de las clases abstractas no tienen implementación. F
+-En la declaración de una interfaz solamente pueden aparecer declaraciones de método y atributos pero nunca
+implementación de métodos. F
+-Las interfaces no encapsulan datos. V
+-Las interfaces pueden definir constantes simbólicas. V
